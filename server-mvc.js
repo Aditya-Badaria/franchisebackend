@@ -20,7 +20,7 @@ app.listen(2004,function(){
 app.use(express.urlencoded({ extended: true }));
 app.use(fileuploader());
 
-// var url="mongodb+srv://adityabadaria1234:<db_password>@jan2025.qeg6a.mongodb.net/?retryWrites=true&w=majority&appName=jan2025";
+
 var urll = url ;
 
 
